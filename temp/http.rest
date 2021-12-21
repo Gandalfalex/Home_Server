@@ -1,0 +1,17 @@
+GET http://192.168.178.29:8000/sports
+
+###
+GET http://meetforsports.hopto.org:8000/sports
+###
+
+POST http://192.168.178.29:8000/send
+Content-Type:  application/json
+
+{
+    "user_id" : 1,
+    "s_id" : 2,
+    "l_id" : 2,
+    "description" : "nothing to seee here",
+    "time" : "21:20",
+    "data" : "11.23.42"
+}

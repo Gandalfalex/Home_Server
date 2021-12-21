@@ -1,0 +1,52 @@
+{
+    "0":{
+       "s_name":"baseball",
+       "min_players":8,
+       "max_players":12
+    },
+    "1":{
+       "s_name":"beer pong",
+       "min_players":9,
+       "max_players":18
+    },
+    "2":{
+       "s_name":"Quidditch",
+       "min_players":3,
+       "max_players":5
+    },
+    "3":{
+       "s_name":"golf",
+       "min_players":10,
+       "max_players":13
+    },
+    "4":{
+       "s_name":"dogeball",
+       "min_players":7,
+       "max_players":9
+    },
+    "5":{
+       "s_name":"football",
+       "min_players":5,
+       "max_players":6
+    },
+    "6":{
+       "s_name":"rugby",
+       "min_players":2,
+       "max_players":4
+    },
+    "7":{
+       "s_name":"american football",
+       "min_players":7,
+       "max_players":9
+    },
+    "8":{
+       "s_name":"table tennis",
+       "min_players":9,
+       "max_players":12
+    },
+    "9":{
+       "s_name":"basketball",
+       "min_players":7,
+       "max_players":8
+    }
+ }
