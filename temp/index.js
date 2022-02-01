@@ -6,7 +6,6 @@ app.use(Express.json());
 app.use(Express.urlencoded({extends : true}))
 
 const host = '192.168.178.29';
-const host1 = 'meetforsports.hopto.org';
 const port = 8000;
 
 
@@ -40,6 +39,17 @@ app.get("/sports", (req,res) =>{
         }
         res.send(data);
     })
+})
+
+app.get("/events", (req,res) =>{
+  console.log(req);
+  jsonReader("./events.json", (err, data) => {
+      if (err) {
+        console.log(err);
+        return;
+      }
+      res.send(data);
+  })
 })
 
 
@@ -77,4 +87,4 @@ function jsonReader(filePath, cb) {
 
 
 //app.listen(port, () => console.log("listening on port " + port))
-app.listen(port, host1,  () => console.log("listening on port " + port))
+app.listen(port, host,  () => console.log("listening on port " + port))

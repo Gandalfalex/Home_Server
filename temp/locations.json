@@ -1,122 +1,122 @@
 {
    "0":{
-      "l_name":"Markarth",
-      "l_address":"not thought of yet",
-      "long":51.1983,
-      "lat":12.7763
-   },
-   "1":{
-      "l_name":"Understone Keep",
-      "l_address":"not thought of yet",
-      "long":50.4654,
-      "lat":12.8256
-   },
-   "2":{
-      "l_name":"Riften",
-      "l_address":"not thought of yet",
-      "long":50.0548,
-      "lat":13.6443
-   },
-   "3":{
-      "l_name":"Dragonsreach",
-      "l_address":"not thought of yet",
-      "long":50.7049,
-      "lat":13.934
-   },
-   "4":{
-      "l_name":"Blue Palace",
-      "l_address":"not thought of yet",
-      "long":51.7508,
-      "lat":13.6613
-   },
-   "5":{
-      "l_name":"Linau",
-      "l_address":"not thought of yet",
-      "long":51.0869,
-      "lat":13.0744
-   },
-   "6":{
-      "l_name":"Wetterzeube",
-      "l_address":"not thought of yet",
-      "long":51.0939,
-      "lat":13.1975
-   },
-   "7":{
-      "l_name":"Anvil Castle",
-      "l_address":"not thought of yet",
-      "long":51.9546,
-      "lat":12.2902
-   },
-   "8":{
-      "l_name":"Klosterkumbd",
-      "l_address":"not thought of yet",
-      "long":50.3805,
-      "lat":12.2914
-   },
-   "9":{
-      "l_name":"Castle Bruma",
-      "l_address":"not thought of yet",
-      "long":51.2775,
-      "lat":13.6726
-   },
-   "10":{
-      "l_name":"Noerdlingen",
-      "l_address":"not thought of yet",
-      "long":50.5349,
-      "lat":13.586
-   },
-   "11":{
-      "l_name":"Limbach",
-      "l_address":"not thought of yet",
-      "long":51.7638,
-      "lat":13.9842
-   },
-   "12":{
-      "l_name":"Morstadt",
-      "l_address":"not thought of yet",
-      "long":51.8408,
-      "lat":13.8661
-   },
-   "13":{
-      "l_name":"Palace of the Kings",
-      "l_address":"not thought of yet",
-      "long":50.1351,
-      "lat":12.9055
-   },
-   "14":{
-      "l_name":"Castle Bravil",
-      "l_address":"not thought of yet",
-      "long":50.5447,
-      "lat":12.8292
-   },
-   "15":{
-      "l_name":"Whiterun",
-      "l_address":"not thought of yet",
-      "long":50.5665,
-      "lat":13.3886
-   },
-   "16":{
-      "l_name":"Duisburg",
-      "l_address":"not thought of yet",
-      "long":51.9881,
-      "lat":12.6293
-   },
-   "17":{
       "l_name":"Pintesfeld",
       "l_address":"not thought of yet",
-      "long":51.0397,
-      "lat":13.1539
+      "lat":51.023737,
+      "long":13.93463
    },
-   "18":{
+   "1":{
+      "l_name":"Riften",
+      "l_address":"not thought of yet",
+      "lat":51.051057,
+      "long":13.679103
+   },
+   "2":{
+      "l_name":"Anvil Castle",
+      "l_address":"not thought of yet",
+      "lat":51.036705,
+      "long":13.645119
+   },
+   "3":{
+      "l_name":"Castle Bruma",
+      "l_address":"not thought of yet",
+      "lat":51.043266,
+      "long":13.594343
+   },
+   "4":{
+      "l_name":"Morstadt",
+      "l_address":"not thought of yet",
+      "lat":51.071996,
+      "long":13.877885
+   },
+   "5":{
       "l_name":"Solitude",
       "l_address":"not thought of yet",
-      "long":50.1218,
-      "lat":13.811
+      "lat":51.061889,
+      "long":13.910089
    },
-   "19":{
+   "6":{
       "l_name":"Bargum",
       "l_address":"not thought of yet",
-      "long":50.491,
-      "lat":13.777
+      "lat":51.034468,
+      "long":13.678094
+   },
+   "7":{
+      "l_name":"Whiterun",
+      "l_address":"not thought of yet",
+      "lat":51.05883,
+      "long":13.859932
+   },
+   "8":{
+      "l_name":"Castle Bravil",
+      "l_address":"not thought of yet",
+      "lat":51.058891,
+      "long":13.604643
+   },
+   "9":{
+      "l_name":"Blue Palace",
+      "l_address":"not thought of yet",
+      "lat":51.042566,
+      "long":13.869396
+   },
+   "10":{
+      "l_name":"Palace of the Kings",
+      "l_address":"not thought of yet",
+      "lat":51.05105,
+      "long":13.688145
+   },
+   "11":{
+      "l_name":"Understone Keep",
+      "l_address":"not thought of yet",
+      "lat":51.079997,
+      "long":13.752837
+   },
+   "12":{
+      "l_name":"Wetterzeube",
+      "l_address":"not thought of yet",
+      "lat":51.052592,
+      "long":13.765563
+   },
+   "13":{
+      "l_name":"Noerdlingen",
+      "l_address":"not thought of yet",
+      "lat":51.023206,
+      "long":13.691804
+   },
+   "14":{
+      "l_name":"Duisburg",
+      "l_address":"not thought of yet",
+      "lat":51.076907,
+      "long":13.705202
+   },
+   "15":{
+      "l_name":"Markarth",
+      "l_address":"not thought of yet",
+      "lat":51.044075,
+      "long":13.69173
+   },
+   "16":{
+      "l_name":"Linau",
+      "l_address":"not thought of yet",
+      "lat":51.047564,
+      "long":13.685265
+   },
+   "17":{
+      "l_name":"Limbach",
+      "l_address":"not thought of yet",
+      "lat":51.081146,
+      "long":13.797363
+   },
+   "18":{
+      "l_name":"Klosterkumbd",
+      "l_address":"not thought of yet",
+      "lat":51.043716,
+      "long":13.786607
+   },
+   "19":{
+      "l_name":"Dragonsreach",
+      "l_address":"not thought of yet",
+      "lat":51.036786,
+      "long":13.874683
    }
 }
